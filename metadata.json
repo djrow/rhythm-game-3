@@ -1,0 +1,6 @@
+{
+  "name": "Partitura",
+  "description": "Single-microphone acoustic rhythm game scoring multi-musician ensembles on timing, pitch accuracy, and timbre alongside scrolling sheet music and YouTube recordings.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
